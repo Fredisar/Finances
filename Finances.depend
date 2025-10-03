@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1759449084 source:c:\users\boukis\documents\finances\main.cpp
+	<iostream>
+	"data.h"
+	"societe.h"
+	<vector>
+
+1759449487 c:\users\boukis\documents\finances\data.h
+	"societe.h"
+	<string>
+	<vector>
+
+1759449133 c:\users\boukis\documents\finances\societe.h
+	<iostream>
+	<string>
+	"data.h"
+
